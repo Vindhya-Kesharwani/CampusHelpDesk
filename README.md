@@ -1,6 +1,10 @@
 # CampusHelpDesk
 Salesforce-based College Student Support & Complaint Management System.
 
+# Project Demo Video
+Watch the full demo video here :
+https://drive.google.com/file/d/1kA-aRnYJVq79Qn1EVTNneW4mh_dPDF67/view?usp=sharing
+
 ## Description
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
@@ -12,10 +16,6 @@ Now that you’ve created a Salesforce DX project, what’s next? Here are some 
 
 ## Tech Used
 Salesforce, Flows, Reports, Dashboards, VS Code, GitHub.
-
-# Project Demo Video
-Watch the full demo video here :
-https://drive.google.com/file/d/1kA-aRnYJVq79Qn1EVTNneW4mh_dPDF67/view?usp=sharing
 
 ## Developer
 Vindhya Kesharwani
