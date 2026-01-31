@@ -1,18 +1,25 @@
-what# Salesforce DX Project: Next Steps
+# CampusHelpDesk
+Salesforce-based College Student Support & Complaint Management System.
 
+## Description
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
-## How Do You Plan to Deploy Your Changes?
+## Features
+- Students can raise complaints and track status.
+- Admins can assign, update, and resolve complaints.
+- Automated email notifications.
+- Reports and dashboards for monitoring.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+## Tech Used
+Salesforce, Flows, Reports, Dashboards, VS Code, GitHub.
 
-## Configure Your Salesforce DX Project
+## Developer
+Vindhya Kesharwani
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
+## Documentation Resources
 - [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
 - [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+- [Development Model Guide](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models)
+
