@@ -6,7 +6,7 @@ Watch the full demo video here :
 https://drive.google.com/file/d/1kA-aRnYJVq79Qn1EVTNneW4mh_dPDF67/view?usp=sharing
 
 ## Description
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+This system is designed to help students easily raise complaints and allow the college administration to track and resolve them efficiently.
 
 ## Features
 - Students can raise complaints and track status.
